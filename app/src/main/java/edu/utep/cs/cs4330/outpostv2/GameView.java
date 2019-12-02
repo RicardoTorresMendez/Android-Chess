@@ -30,6 +30,8 @@ public class GameView extends View{
 
     boolean gameover;
 
+    /** Declaration of variables ends here **/
+
     public GameView(Context context) {
         this(context, null);
     }
