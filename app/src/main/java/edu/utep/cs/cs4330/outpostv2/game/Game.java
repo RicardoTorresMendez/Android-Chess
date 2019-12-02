@@ -20,6 +20,8 @@ public class Game{
 
     private LineMoves square;
 
+    /** declaration of variables ends */
+
     public Game(){
         board = new Board();
         white = true;

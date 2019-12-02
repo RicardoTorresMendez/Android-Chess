@@ -10,6 +10,8 @@ public class Board{
 
     private Record.Notation takeback;
 
+    /** Declaration of variables ends */
+
     public Board(){
         record = new Record();
         initCoords();
