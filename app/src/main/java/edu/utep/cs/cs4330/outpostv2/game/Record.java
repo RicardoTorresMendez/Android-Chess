@@ -1,5 +1,7 @@
 package edu.utep.cs.cs4330.outpostv2.game;
 
+
+
 /** This is our implementation for the records **/
 
 public class Record{
